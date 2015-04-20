@@ -1,0 +1,6 @@
+c:\users\monika\documents\visual studio 2013\Projects\FibbConsol\FibbConsol\bin\Debug\FibbConsol.exe.config
+c:\users\monika\documents\visual studio 2013\Projects\FibbConsol\FibbConsol\bin\Debug\FibbConsol.exe
+c:\users\monika\documents\visual studio 2013\Projects\FibbConsol\FibbConsol\bin\Debug\FibbConsol.pdb
+c:\users\monika\documents\visual studio 2013\Projects\FibbConsol\FibbConsol\obj\Debug\FibbConsol.csprojResolveAssemblyReference.cache
+c:\users\monika\documents\visual studio 2013\Projects\FibbConsol\FibbConsol\obj\Debug\FibbConsol.exe
+c:\users\monika\documents\visual studio 2013\Projects\FibbConsol\FibbConsol\obj\Debug\FibbConsol.pdb
