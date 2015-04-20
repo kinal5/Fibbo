@@ -8,6 +8,21 @@ namespace FibbConsol
 {
     class Program
     {
+        static void Main(string[] args)
+        {
+            uint i = 2;
+            uint suma = 0;
+            while (Fibonacci(i) < 4000000)
+            {
+                if (EvenValue(Fibonacci(i)) == true)
+                {
+                    suma += Fibonacci(i);
+                }
+                i++;
+            }
+            Console.WriteLine(suma);
+            Console.ReadKey();
+        }
 
         /// <summary>
         /// 
@@ -48,20 +63,6 @@ namespace FibbConsol
                 return Fibonacci(n - 2) + Fibonacci(n - 1);
             }
         }
-        static void Main(string[] args)
-        {
-            uint i = 2;
-            uint suma = 0;
-            while (Fibonacci(i) < 4000000)
-            {
-                if(EvenValue(Fibonacci(i)) == true)
-                {
-                    suma += Fibonacci(i);
-                }
-                i++;
-            }
-            Console.WriteLine(suma);
-            Console.ReadKey();
-        }
+        
     }
 }
