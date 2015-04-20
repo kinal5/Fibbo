@@ -10,7 +10,8 @@ namespace FibbConsol
     {
 
         /// <summary>
-        /// Check value if is even or not
+        /// 
+        /// Public and Static: Check value if is even or not
         /// 
         /// Example:
         /// 
